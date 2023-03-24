@@ -19,7 +19,7 @@ Functional programming provides several benefits such as:
 
 ### Click the link bellow for a Scala lang tutorial
 
-[Intro to Scala Lang](Intro to Scala Lang.md)
+[Intro to Scala Lang](Intro%20to%20Scala%20Lang.md)
 
 ## Basic Concepts of Functional Programming in Scala
 
