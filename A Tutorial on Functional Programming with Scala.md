@@ -71,4 +71,4 @@ val addOneAndMultiplyByTwo = addOne _ andThen multiplyByTwo
 
 ```
 
-[Functional Programming Examples](A%20Tutorial%20on%20Functional%20Programming%20with%20Scala%2078ed41377eaf45b5817f61df6889f13d/Functional%20Programming%20Examples%20f0cc81b547334759af8ba46a72d77d0c.md)
+[Functional Programming Examples](Functional%20Programming%20Examples.md)
