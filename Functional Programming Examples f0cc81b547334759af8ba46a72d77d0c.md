@@ -189,4 +189,4 @@ In this code, we first define a List of tuples representing points in a 2D plane
 
 This example illustrates how functional programming concepts can be used to solve complex problems involving data structures such as Lists of tuples in a concise and expressive way in Scala.
 
-[Advanced Examples ](Functional%20Programming%20Examples%20f0cc81b547334759af8ba46a72d77d0c/Advanced%20Examples%209c96209cc4324659b0838e3e540b57ff.md)
+[Advanced Examples ](Functional%20Programming%20Examples.md)
